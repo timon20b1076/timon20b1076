@@ -3,6 +3,7 @@
 <p align="center">
  <img align="center" alt="Coding" width="400" src="https://media.newyorker.com/photos/6422f96debe891eb7b71971c/4:3/w_2560%2Cc_limit/Halpern_final.gif">
 </p>
+
 - 🔭 I’m currently working on **some new AI tools.**
 
 - 👯 I’m looking to collaborate on **Data Science , ML , AI projects**
