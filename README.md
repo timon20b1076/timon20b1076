@@ -1,7 +1,7 @@
 <h1 align="center">Hey there ! Marmik Thaker Here !</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <p align="center">
- <img align="center" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
+ <img align="center" alt="Coding" width="400" src="https://media.newyorker.com/photos/6422f96debe891eb7b71971c/4:3/w_2560%2Cc_limit/Halpern_final.gif">
 </p>
 - 🔭 I’m currently working on **some new AI tools.**
 
