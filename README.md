@@ -1,7 +1,7 @@
 <h1 align="center">Hey there ! Marmik Thaker Here !</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <p align="center">
- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+ <img align="center" alt="Coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
 </p>
 
 - 🔭 I’m currently working on **some new AI tools.**
