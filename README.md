@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marmik Thaker</h1>
+<h1 align="center">Hey there ! Marmik Thaker Here !</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <p align="center">
  <img align="center" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
